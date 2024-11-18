@@ -1,0 +1,502 @@
+{
+    "ZINC001241740817_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cccc3c2NC(=O)N(C3)C",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][N][C][=Branch1][C][=O][N][Branch1][Ring2][C][Ring1][#Branch1][C]",
+        "Description": "Molecular weight: 280.37 g/mol; Rotatable bonds: 2; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241740844_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cccnc2OC(F)F",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][N][=C][Ring1][=Branch1][O][C][Branch1][C][F][F]",
+        "Description": "Molecular weight: 263.29 g/mol; Rotatable bonds: 4; Aromatic ring count: 2"
+    },
+    "ZINC001241740852_1": {
+        "smiles": "Cc1c(ccc2n1ccn2)c3cccc(c3)C(C)C",
+        "selfies": "[C][C][=C][Branch1][N][C][=C][C][N][Ring1][=Branch1][C][=C][N][=Ring1][Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 250.34 g/mol; Rotatable bonds: 2; Aromatic ring count: 3"
+    },
+    "ZINC001241740861_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cc3cc[nH]c3nc2C(=O)OC",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][C][=C][NH1][C][=Ring1][Branch1][N][=C][Ring1][=Branch2][C][=Branch1][C][=O][O][C]",
+        "Description": "Molecular weight: 294.35 g/mol; Rotatable bonds: 3; Aromatic ring count: 3"
+    },
+    "ZINC001241740910_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccc3c(c2)CNC(=O)C3(C)C",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][N][C][=Branch1][C][=O][C][Ring1][Branch2][Branch1][C][C][C]",
+        "Description": "Molecular weight: 293.41 g/mol; Rotatable bonds: 2; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241740915_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccc(=O)n(c2)CC3CC3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][=C][C][=Branch1][C][=O][N][Branch1][Ring2][C][=Ring1][#Branch1][C][C][C][C][Ring1][Ring1]",
+        "Description": "Molecular weight: 267.37 g/mol; Rotatable bonds: 4; Aromatic ring count: 2"
+    },
+    "ZINC001241740923_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccc(=O)n(c2)c3ccncc3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][=C][C][=Branch1][C][=O][N][Branch1][Ring2][C][=Ring1][#Branch1][C][=C][C][=N][C][=C][Ring1][=Branch1]",
+        "Description": "Molecular weight: 290.37 g/mol; Rotatable bonds: 3; Aromatic ring count: 3"
+    },
+    "ZINC001241740924_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cc3cc[nH]c3c(c2)C(=O)N",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][C][=C][NH1][C][=Ring1][Branch1][C][=Branch1][Ring2][=C][Ring1][=Branch2][C][=Branch1][C][=O][N]",
+        "Description": "Molecular weight: 278.36 g/mol; Rotatable bonds: 3; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 3"
+    },
+    "ZINC001241740926_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cc3c(c(ccn3)OC)nc2",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][Branch1][O][C][=Branch1][=Branch1][=C][C][=N][Ring1][=Branch1][O][C][N][=C][Ring1][N]",
+        "Description": "Molecular weight: 278.35 g/mol; Rotatable bonds: 3; Aromatic ring count: 3"
+    },
+    "ZINC001241740935_1": {
+        "smiles": "Cc1c(cnc2c1[nH]c(n2)C)c3cccc(c3)C(C)C",
+        "selfies": "[C][C][=C][Branch1][#C][C][=N][C][=C][Ring1][=Branch1][NH1][C][=Branch1][Ring2][=N][Ring1][Branch1][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 265.36 g/mol; Rotatable bonds: 2; Aromatic ring count: 3"
+    },
+    "ZINC001241740936_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccc3c(c2)c(c[nH]3)C[NH3+]",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][Branch1][=C][NH1][Ring1][=Branch1][C][NH3+1]",
+        "Description": "Molecular weight: 265.38 g/mol; Rotatable bonds: 3; Contains nitrogen atom(s); Aromatic ring count: 3"
+    },
+    "ZINC001241741104_1": {
+        "smiles": "CCOc1cc(cnc1F)c2cccc(c2)C(C)C",
+        "selfies": "[C][C][O][C][=C][C][=Branch1][#Branch1][=C][N][=C][Ring1][=Branch1][F][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 259.32 g/mol; Rotatable bonds: 4; Aromatic ring count: 2"
+    },
+    "ZINC001241741105_1": {
+        "smiles": "CC(C)c1cccc(c1)c2c3cc[nH]c3c(cn2)F",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][NH1][C][Ring1][Branch1][=C][Branch1][Branch1][C][=N][Ring1][=Branch2][F]",
+        "Description": "Molecular weight: 254.31 g/mol; Rotatable bonds: 2; Aromatic ring count: 3"
+    },
+    "ZINC001241741131_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccn(c(=O)c2)CC3CC3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][=C][N][Branch1][Branch2][C][=Branch1][C][=O][C][=Ring1][#Branch1][C][C][C][C][Ring1][Ring1]",
+        "Description": "Molecular weight: 267.37 g/mol; Rotatable bonds: 4; Aromatic ring count: 2"
+    },
+    "ZINC001241741146_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccc(=O)n(c2)CC(F)(F)F",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][=C][C][=Branch1][C][=O][N][Branch1][Ring2][C][=Ring1][#Branch1][C][C][Branch1][C][F][Branch1][C][F][F]",
+        "Description": "Molecular weight: 295.30 g/mol; Rotatable bonds: 3; Aromatic ring count: 2"
+    },
+    "ZINC001241741162_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccc3ccc(=O)n(c3c2)C",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][C][=Branch1][C][=O][N][Branch1][#Branch1][C][Ring1][#Branch1][=C][Ring1][O][C]",
+        "Description": "Molecular weight: 277.37 g/mol; Rotatable bonds: 2; Aromatic ring count: 3"
+    },
+    "ZINC001241741182_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cccn(c2=O)CC3CC3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][N][Branch1][Branch1][C][Ring1][=Branch1][=O][C][C][C][C][Ring1][Ring1]",
+        "Description": "Molecular weight: 267.37 g/mol; Rotatable bonds: 4; Aromatic ring count: 2"
+    },
+    "ZINC001241741187_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccc(cc2)[C@H]3CCC(=O)N3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C@H1][C][C][C][=Branch1][C][=O][N][Ring1][=Branch1]",
+        "Description": "Molecular weight: 279.38 g/mol; Rotatable bonds: 3; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741188_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccc(cc2)[C@@H]3CCC(=O)N3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C@@H1][C][C][C][=Branch1][C][=O][N][Ring1][=Branch1]",
+        "Description": "Molecular weight: 279.38 g/mol; Rotatable bonds: 3; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741213_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cccc3c2n(cn3)C",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][N][Branch1][Branch1][C][=N][Ring1][Branch1][C]",
+        "Description": "Molecular weight: 250.34 g/mol; Rotatable bonds: 2; Aromatic ring count: 3"
+    },
+    "ZINC001241741215_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cnccc2/C=C/[NH+](C)C",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][N][=C][C][=C][Ring1][=Branch1][/C][=C][/NH1+1][Branch1][C][C][C]",
+        "Description": "Molecular weight: 267.40 g/mol; Rotatable bonds: 4; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741222_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cc(c3nccn3c2)F",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][=C][Branch1][O][C][=N][C][=C][N][Ring1][Branch1][C][=Ring1][=Branch2][F]",
+        "Description": "Molecular weight: 254.31 g/mol; Rotatable bonds: 2; Aromatic ring count: 3"
+    },
+    "ZINC001241741232_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccc(=O)n(c2)c3ccccn3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][=C][C][=Branch1][C][=O][N][Branch1][Ring2][C][=Ring1][#Branch1][C][=C][C][=C][C][=N][Ring1][=Branch1]",
+        "Description": "Molecular weight: 290.37 g/mol; Rotatable bonds: 3; Aromatic ring count: 3"
+    },
+    "ZINC001241741234_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccc(=O)n(c2)C3CCC3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][=C][C][=Branch1][C][=O][N][Branch1][Ring2][C][=Ring1][#Branch1][C][C][C][C][Ring1][Ring2]",
+        "Description": "Molecular weight: 267.37 g/mol; Rotatable bonds: 3; Aromatic ring count: 2"
+    },
+    "ZINC001241741242_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cccc3c2CNC(=O)N3C",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][C][N][C][=Branch1][C][=O][N][Ring1][#Branch1][C]",
+        "Description": "Molecular weight: 280.37 g/mol; Rotatable bonds: 2; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741254_1": {
+        "smiles": "CC(C)Cn1ccc(cc1=O)c2cccc(c2)C(C)C",
+        "selfies": "[C][C][Branch1][C][C][C][N][C][=C][C][=Branch1][=Branch1][=C][C][Ring1][=Branch1][=O][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 269.39 g/mol; Rotatable bonds: 4; Aromatic ring count: 2"
+    },
+    "ZINC001241741259_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cccc3c2C(C(=O)NC3)(C)C",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][C][Branch1][=Branch2][C][=Branch1][C][=O][N][C][Ring1][#Branch1][Branch1][C][C][C]",
+        "Description": "Molecular weight: 293.41 g/mol; Rotatable bonds: 2; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741261_1": {
+        "smiles": "Cc1c(cnc(n1)SC)c2cccc(c2)C(C)C",
+        "selfies": "[C][C][=C][Branch1][O][C][=N][C][=Branch1][Ring2][=N][Ring1][=Branch1][S][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 258.39 g/mol; Rotatable bonds: 3; Aromatic ring count: 2"
+    },
+    "ZINC001241741262_1": {
+        "smiles": "Cc1nc2cc(cnc2o1)c3cccc(c3)C(C)C",
+        "selfies": "[C][C][=N][C][=C][C][=Branch1][=Branch2][=C][N][=C][Ring1][=Branch1][O][Ring1][=Branch2][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 252.32 g/mol; Rotatable bonds: 2; Aromatic ring count: 3"
+    },
+    "ZINC001241741288_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cccn(c2=O)c3ccccn3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][N][Branch1][Branch1][C][Ring1][=Branch1][=O][C][=C][C][=C][C][=N][Ring1][=Branch1]",
+        "Description": "Molecular weight: 290.37 g/mol; Rotatable bonds: 3; Aromatic ring count: 3"
+    },
+    "ZINC001241741289_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccn(c(=O)c2)c3cccnc3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][=C][N][Branch1][Branch2][C][=Branch1][C][=O][C][=Ring1][#Branch1][C][=C][C][=C][N][=C][Ring1][=Branch1]",
+        "Description": "Molecular weight: 290.37 g/mol; Rotatable bonds: 3; Aromatic ring count: 3"
+    },
+    "ZINC001241741306_1": {
+        "smiles": "CCOCc1cc(cnc1)c2cccc(c2)C(C)C",
+        "selfies": "[C][C][O][C][C][=C][C][=Branch1][=Branch1][=C][N][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 255.36 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741314_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccn(c(=O)c2)C3CCC3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][=C][N][Branch1][Branch2][C][=Branch1][C][=O][C][=Ring1][#Branch1][C][C][C][C][Ring1][Ring2]",
+        "Description": "Molecular weight: 267.37 g/mol; Rotatable bonds: 3; Aromatic ring count: 2"
+    },
+    "ZINC001241741323_1": {
+        "smiles": "Cc1cc(cc2c1OCC(=O)N2)c3cccc(c3)C(C)C",
+        "selfies": "[C][C][=C][C][=Branch1][#C][=C][C][=C][Ring1][=Branch1][O][C][C][=Branch1][C][=O][N][Ring1][#Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 281.36 g/mol; Rotatable bonds: 2; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741325_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cccc(c2)Cn3ccnc3N",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][N][C][=C][N][=C][Ring1][Branch1][N]",
+        "Description": "Molecular weight: 291.40 g/mol; Rotatable bonds: 4; Contains nitrogen atom(s); Aromatic ring count: 3"
+    },
+    "ZINC001241741333_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cn(c(=O)cn2)c3ccccc3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][N][Branch1][=Branch2][C][=Branch1][C][=O][C][=N][Ring1][#Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1]",
+        "Description": "Molecular weight: 290.37 g/mol; Rotatable bonds: 3; Aromatic ring count: 3"
+    },
+    "ZINC001241741350_1": {
+        "smiles": "CCOC(=O)c1cc(c(cn1)c2cccc(c2)C(C)C)C",
+        "selfies": "[C][C][O][C][=Branch1][C][=O][C][=C][C][=Branch2][Ring1][#Branch1][=C][Branch1][Branch1][C][=N][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][C][C][C]",
+        "Description": "Molecular weight: 283.37 g/mol; Rotatable bonds: 4; Aromatic ring count: 2"
+    },
+    "ZINC001241741368_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cc(=O)n(nc2)c3ccccc3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=Branch1][C][=O][N][Branch1][Branch1][N][=C][Ring1][#Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1]",
+        "Description": "Molecular weight: 290.37 g/mol; Rotatable bonds: 3; Aromatic ring count: 3"
+    },
+    "ZINC001241741369_1": {
+        "smiles": "CC(C)c1cccc(c1)c2ccnc(c2)OC3CCOCC3",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=N][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C][C][C][O][C][C][Ring1][=Branch1]",
+        "Description": "Molecular weight: 297.40 g/mol; Rotatable bonds: 4; Aromatic ring count: 2"
+    },
+    "ZINC001241741376_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cccc3c2CCN(C3=O)C",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][C][C][N][Branch1][Branch1][C][Ring1][=Branch1][=O][C]",
+        "Description": "Molecular weight: 279.38 g/mol; Rotatable bonds: 2; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741381_1": {
+        "smiles": "CC(C)c1cccc(c1)c2cc(ccc2F)C(=O)N(C)C",
+        "selfies": "[C][C][Branch1][C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=Branch1][#Branch1][=C][C][=C][Ring1][=Branch1][F][C][=Branch1][C][=O][N][Branch1][C][C][C]",
+        "Description": "Molecular weight: 285.36 g/mol; Rotatable bonds: 3; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741386_1": {
+        "smiles": "Cc1c(ccc2c1NC(=O)CO2)c3cccc(c3)C(C)C",
+        "selfies": "[C][C][=C][Branch1][S][C][=C][C][=C][Ring1][=Branch1][N][C][=Branch1][C][=O][C][O][Ring1][#Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 281.36 g/mol; Rotatable bonds: 2; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741395_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc3c(c2)[C@H](C(=O)N3)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C@H1][Branch1][Branch2][C][=Branch1][C][=O][N][Ring1][#Branch1][C]",
+        "Description": "Molecular weight: 281.35 g/mol; Rotatable bonds: 4; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741396_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc3c(c2)[C@@H](C(=O)N3)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C@@H1][Branch1][Branch2][C][=Branch1][C][=O][N][Ring1][#Branch1][C]",
+        "Description": "Molecular weight: 281.35 g/mol; Rotatable bonds: 4; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741398_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c3cc[nH]c3nc(n2)C4CC4",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][NH1][C][Ring1][Branch1][=N][C][=Branch1][Ring2][=N][Ring1][=Branch2][C][C][C][Ring1][Ring1]",
+        "Description": "Molecular weight: 293.37 g/mol; Rotatable bonds: 5; Aromatic ring count: 3"
+    },
+    "ZINC001241741401_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c(cc3ccncc3n2)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][Branch1][=N][C][=C][C][=C][N][=C][C][Ring1][=Branch1][=N][Ring1][#Branch2][C]",
+        "Description": "Molecular weight: 278.36 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741406_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc3c(c2)NC(=O)CC3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][N][C][=Branch1][C][=O][C][C][Ring1][Branch2]",
+        "Description": "Molecular weight: 281.36 g/mol; Rotatable bonds: 4; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741418_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccccc2C(OC)OC",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][C][Branch1][Ring1][O][C][O][C]",
+        "Description": "Molecular weight: 286.37 g/mol; Rotatable bonds: 7; Aromatic ring count: 2"
+    },
+    "ZINC001241741428_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cc3c(cc2C)[nH]cn3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][C][NH1][C][=N][Ring1][Branch2]",
+        "Description": "Molecular weight: 266.34 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741434_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccccc2C(C)(C)O",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][C][Branch1][C][C][Branch1][C][C][O]",
+        "Description": "Molecular weight: 270.37 g/mol; Rotatable bonds: 5; Contains hydroxyl group; Aromatic ring count: 2"
+    },
+    "ZINC001241741442_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccnc(n2)c3nccs3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=N][C][=Branch1][Ring2][=N][Ring1][=Branch1][C][=N][C][=C][S][Ring1][Branch1]",
+        "Description": "Molecular weight: 297.38 g/mol; Rotatable bonds: 5; Aromatic ring count: 3"
+    },
+    "ZINC001241741443_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c(nccn2)C(C)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][Branch1][#Branch1][N][=C][C][=N][Ring1][=Branch1][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 256.35 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741450_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cc(c(cc2OC)C)OC",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][O][=C][Branch1][#Branch1][C][=C][Ring1][=Branch1][O][C][C][O][C]",
+        "Description": "Molecular weight: 286.37 g/mol; Rotatable bonds: 6; Aromatic ring count: 2"
+    },
+    "ZINC001241741466_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc3c(c2)[nH]c(n3)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][NH1][C][=Branch1][Ring2][=N][Ring1][=Branch1][C]",
+        "Description": "Molecular weight: 266.34 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741477_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc3cnncc3c2",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=N][N][=C][C][Ring1][=Branch1][=C][Ring1][#Branch2]",
+        "Description": "Molecular weight: 264.33 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741481_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc3c(c2)ncn3C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][N][=C][N][Ring1][=Branch1][C]",
+        "Description": "Molecular weight: 266.34 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741485_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccnc(c2)N3CCCC3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=N][C][=Branch1][Ring2][=C][Ring1][=Branch1][N][C][C][C][C][Ring1][Branch1]",
+        "Description": "Molecular weight: 282.39 g/mol; Rotatable bonds: 5; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741488_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cc(c(cc2OC)F)F",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][O][=C][Branch1][#Branch1][C][=C][Ring1][=Branch1][O][C][F][F]",
+        "Description": "Molecular weight: 278.30 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741493_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cccc3n2cc([nH+]3)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][N][Ring1][=Branch1][C][=C][Branch1][Ring2][NH1+1][=Ring1][Branch1][C]",
+        "Description": "Molecular weight: 267.35 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741503_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cc3c(cc[nH]3)nc2",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][Branch1][=Branch1][C][=C][NH1][Ring1][Branch1][N][=C][Ring1][=Branch2]",
+        "Description": "Molecular weight: 252.32 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741510_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c(cccn2)C3CCOCC3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][Branch1][#Branch1][C][=C][C][=N][Ring1][=Branch1][C][C][C][O][C][C][Ring1][=Branch1]",
+        "Description": "Molecular weight: 297.40 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741518_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc3c(c2)CCC(=O)N3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][C][=Branch1][C][=O][N][Ring1][Branch2]",
+        "Description": "Molecular weight: 281.35 g/mol; Rotatable bonds: 4; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741519_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cnc(c3c2cc[nH]3)OC",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][N][=C][Branch1][#Branch2][C][=C][Ring1][=Branch1][C][=C][NH1][Ring1][Branch1][O][C]",
+        "Description": "Molecular weight: 282.34 g/mol; Rotatable bonds: 5; Aromatic ring count: 3"
+    },
+    "ZINC001241741524_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cc(ccn2)CSC",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][=Branch1][=C][C][=N][Ring1][=Branch1][C][S][C]",
+        "Description": "Molecular weight: 273.40 g/mol; Rotatable bonds: 6; Aromatic ring count: 2"
+    },
+    "ZINC001241741526_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c(nccn2)O[C@H](C)CC",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][Branch1][#Branch1][N][=C][C][=N][Ring1][=Branch1][O][C@H1][Branch1][C][C][C][C]",
+        "Description": "Molecular weight: 286.38 g/mol; Rotatable bonds: 7; Aromatic ring count: 2"
+    },
+    "ZINC001241741527_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c(nccn2)O[C@@H](C)CC",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][Branch1][#Branch1][N][=C][C][=N][Ring1][=Branch1][O][C@@H1][Branch1][C][C][C][C]",
+        "Description": "Molecular weight: 286.38 g/mol; Rotatable bonds: 7; Aromatic ring count: 2"
+    },
+    "ZINC001241741553_1": {
+        "smiles": "CCCOc1ccc(cc1)c2nc(cc(n2)C(C)C)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=N][C][=Branch1][=N][=C][C][=Branch1][Ring2][=N][Ring1][=Branch1][C][Branch1][C][C][C][C]",
+        "Description": "Molecular weight: 270.38 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741554_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cnc3c(c2C)cc[nH]3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][N][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][C][C][=C][NH1][Ring1][#Branch1]",
+        "Description": "Molecular weight: 266.34 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741560_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cccc3c2cncn3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=N][C][=N][Ring1][=Branch1]",
+        "Description": "Molecular weight: 264.33 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741578_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c3c(ccn2)ccn3C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][=Branch1][=C][C][=N][Ring1][=Branch1][C][=C][N][Ring1][Branch2][C]",
+        "Description": "Molecular weight: 266.34 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741590_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cccc(c2OC)F",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][=Branch1][=C][Ring1][=Branch1][O][C][F]",
+        "Description": "Molecular weight: 260.31 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741591_1": {
+        "smiles": "CCCCc1cc(ncn1)c2ccc(cc2)OCCC",
+        "selfies": "[C][C][C][C][C][=C][C][=Branch1][=Branch1][=N][C][=N][Ring1][=Branch1][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O][C][C][C]",
+        "Description": "Molecular weight: 270.38 g/mol; Rotatable bonds: 7; Aromatic ring count: 2"
+    },
+    "ZINC001241741593_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cccc3c2COCC3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][C][O][C][C][Ring1][=Branch1]",
+        "Description": "Molecular weight: 268.36 g/mol; Rotatable bonds: 4; Aromatic ring count: 2"
+    },
+    "ZINC001241741602_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cc(cc(c2OC)F)F",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][O][=C][C][=Branch1][=Branch1][=C][Ring1][=Branch1][O][C][F][F]",
+        "Description": "Molecular weight: 278.30 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741613_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc3c(c2)NC(=O)[C@@H]3C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][N][C][=Branch1][C][=O][C@@H1][Ring1][#Branch1][C]",
+        "Description": "Molecular weight: 281.36 g/mol; Rotatable bonds: 4; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741614_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc3c(c2)NC(=O)[C@H]3C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][N][C][=Branch1][C][=O][C@H1][Ring1][#Branch1][C]",
+        "Description": "Molecular weight: 281.36 g/mol; Rotatable bonds: 4; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741624_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c(c(nc(n2)C3CC3)C)OC",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][Branch1][P][C][=Branch1][=N][=N][C][=Branch1][Ring2][=N][Ring1][=Branch1][C][C][C][Ring1][Ring1][C][O][C]",
+        "Description": "Molecular weight: 298.39 g/mol; Rotatable bonds: 6; Aromatic ring count: 2"
+    },
+    "ZINC001241741626_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cccc3c2nc[nH]3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][N][=C][NH1][Ring1][Branch1]",
+        "Description": "Molecular weight: 252.32 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741654_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cccc3c2nccn3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][N][=C][C][=N][Ring1][=Branch1]",
+        "Description": "Molecular weight: 264.33 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741657_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccccc2CC(=O)OCC",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][C][C][=Branch1][C][=O][O][C][C]",
+        "Description": "Molecular weight: 298.38 g/mol; Rotatable bonds: 7; Aromatic ring count: 2"
+    },
+    "ZINC001241741672_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cccc(n2)C3CC3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=N][Ring1][=Branch1][C][C][C][Ring1][Ring1]",
+        "Description": "Molecular weight: 253.34 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741692_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc(cc2)n3ccnc3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][N][C][=C][N][=C][Ring1][Branch1]",
+        "Description": "Molecular weight: 278.36 g/mol; Rotatable bonds: 5; Aromatic ring count: 3"
+    },
+    "ZINC001241741696_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc(nn2)SC(C)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][Branch1][Branch1][N][=N][Ring1][=Branch1][S][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 288.42 g/mol; Rotatable bonds: 6; Aromatic ring count: 2"
+    },
+    "ZINC001241741697_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc3c(c2)CCOC3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][O][C][Ring1][#Branch1]",
+        "Description": "Molecular weight: 268.36 g/mol; Rotatable bonds: 4; Aromatic ring count: 2"
+    },
+    "ZINC001241741701_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cc(c3c(c2)[nH]cn3)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][=N][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][NH1][C][=N][Ring1][=Branch1][C]",
+        "Description": "Molecular weight: 266.34 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741702_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c3c(cccn3)cc(n2)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][Branch1][#Branch1][C][=C][C][=N][Ring1][=Branch1][=C][C][=Branch1][Ring2][=N][Ring1][#Branch2][C]",
+        "Description": "Molecular weight: 278.36 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741717_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cccc(c2)C3OCCO3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][O][C][C][O][Ring1][Branch1]",
+        "Description": "Molecular weight: 284.36 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741718_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c(cccn2)C[NH+]3CCCC3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][Branch1][#Branch1][C][=C][C][=N][Ring1][=Branch1][C][NH1+1][C][C][C][C][Ring1][Branch1]",
+        "Description": "Molecular weight: 297.42 g/mol; Rotatable bonds: 6; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741733_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cccc(n2)COCC3CC3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=N][Ring1][=Branch1][C][O][C][C][C][C][Ring1][Ring1]",
+        "Description": "Molecular weight: 297.40 g/mol; Rotatable bonds: 8; Aromatic ring count: 2"
+    },
+    "ZINC001241741749_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccnc(n2)c3cncs3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=N][C][=Branch1][Ring2][=N][Ring1][=Branch1][C][=C][N][=C][S][Ring1][Branch1]",
+        "Description": "Molecular weight: 297.38 g/mol; Rotatable bonds: 5; Aromatic ring count: 3"
+    },
+    "ZINC001241741757_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc3c(c2)c(ncn3)OC",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][=Branch1][=N][C][=N][Ring1][#Branch1][O][C]",
+        "Description": "Molecular weight: 294.35 g/mol; Rotatable bonds: 5; Aromatic ring count: 3"
+    },
+    "ZINC001241741772_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c(cccn2)C(=O)OC(C)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][Branch1][#Branch1][C][=C][C][=N][Ring1][=Branch1][C][=Branch1][C][=O][O][C][Branch1][C][C][C]",
+        "Description": "Molecular weight: 299.37 g/mol; Rotatable bonds: 6; Aromatic ring count: 2"
+    },
+    "ZINC001241741777_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc(c(c2)C(=O)OC)F",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][Branch1][=N][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][C][=O][O][C][F]",
+        "Description": "Molecular weight: 288.32 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741780_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cc(cnc2)SC",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][=Branch1][=C][N][=C][Ring1][=Branch1][S][C]",
+        "Description": "Molecular weight: 259.37 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741782_1": {
+        "smiles": "CCCOc1ccc(cc1)c2ccc(c(c2)F)NC(=O)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][F][N][C][=Branch1][C][=O][C]",
+        "Description": "Molecular weight: 287.33 g/mol; Rotatable bonds: 5; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741788_1": {
+        "smiles": "CCCOc1ccc(cc1)c2c(cc3c(n2)cccn3)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][Branch1][#C][C][=C][C][=Branch1][Ring2][=N][Ring1][=Branch1][C][=C][C][=N][Ring1][#Branch1][C]",
+        "Description": "Molecular weight: 278.36 g/mol; Rotatable bonds: 4; Aromatic ring count: 3"
+    },
+    "ZINC001241741801_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cc(ncn2)C3CCC3",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][=Branch1][=N][C][=N][Ring1][=Branch1][C][C][C][C][Ring1][Ring2]",
+        "Description": "Molecular weight: 268.36 g/mol; Rotatable bonds: 5; Aromatic ring count: 2"
+    },
+    "ZINC001241741803_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cccc(c2)CNC(=O)CC",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][N][C][=Branch1][C][=O][C][C]",
+        "Description": "Molecular weight: 297.40 g/mol; Rotatable bonds: 7; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741806_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cc(ccc2NC(=O)C)F",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][N][=C][C][=C][Ring1][=Branch1][N][C][=Branch1][C][=O][C][F]",
+        "Description": "Molecular weight: 287.33 g/mol; Rotatable bonds: 5; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    },
+    "ZINC001241741810_1": {
+        "smiles": "CCCOc1ccc(cc1)c2cc(ccc2C)NC(=O)C",
+        "selfies": "[C][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][#Branch1][=C][C][=C][Ring1][=Branch1][C][N][C][=Branch1][C][=O][C]",
+        "Description": "Molecular weight: 283.37 g/mol; Rotatable bonds: 5; Contains amide group; Contains nitrogen atom(s); Aromatic ring count: 2"
+    }
+}
